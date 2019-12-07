@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">The Biggest Quiz </string>
+    <string name="hint_name">Enter Your Name.</string>
+    <string name="hdr_text2">Select an answer for each question below.</string>
+    <string name="hdr_text3">Press the CHECK ANSWESR button when complete.</string>
+    <string name="hdr_text4">Good Luck!</string>
+
+
+    <string name="ques1">1. Which tree grows the largest?</string>
+    <string name="ques1_a">Douglas Fir</string>
+    <string name="ques1_b">Redwood</string>
+    <string name="ques1_c">Palm</string>
+    <string name="ques1_answer">Redwood</string>
+
+    <string name="ques2">2. Select the 2 largest dog breeds.</string>
+    <string name="ques2_a">Rottweiler</string>
+    <string name="ques2_b">Wolfhound</string>
+    <string name="ques2_c">Great Dane</string>
+    <string name="ques2_answer1">False</string>
+    <string name="ques2_answer2">True</string>
+    <string name="ques2_answer3">True</string>
+
+    <string name="ques3">3. Which castle is the larget?</string>
+    <string name="ques3_a">Edinburgh Castle (Scotland)</string>
+    <string name="ques3_b">Windsor Castle (England)</string>
+    <string name="ques3_c">Malbork Castle (Poland)</string>
+    <string name="ques3_answer">Malbork Castle (Poland)</string>
+
+    <string name="ques4">4. What is the largest casino in the world?</string>
+    <string name="ques4_a">WinStar World Casino (Oklahoma)</string>
+    <string name="ques4_b">City of Dreams (Macao)</string>
+    <string name="ques4_c">MGM Grand (Nevada)</string>
+    <string name="ques4_answer">WinStar World Casino (Oklahoma)</string>
+
+    <string name="ques5">5. Our Solar System is huge, and has how many planets?</string>
+    <string name="ques5_answer">8</string>
+
+    <string name="ques6">6. Which is the largest land vehicle ever built?</string>
+    <string name="ques6_a">Bagger 293 (Mining machine)</string>
+    <string name="ques6_b">Schwerer Gustav (German canon)</string>
+    <string name="ques6_c">NASA Crawler Transporter (Space Shuttle transporter)</string>
+    <string name="ques6_answer">Bagger 293 (Mining machine)</string>
+
+    <string name="ques7">7. Which dam is the largest in the world?</string>
+    <string name="ques7_a">Three Gorges Dam (China)</string>
+    <string name="ques7_b">Hoover Dam (Nevada)</string>
+    <string name="ques7_c">Guri Dam (Venezuela)</string>
+    <string name="ques7_answer">Guri Dam (Venezuela)</string>
+
+    <string name="ques8">8. Which building is the tallest in the world?</string>
+    <string name="ques8_a">International Commerce Centre (Hong Kong)</string>
+    <string name="ques8_b">One World Trade Center (New York)</string>
+    <string name="ques8_c">Burj Khalifa (Dubai)</string>
+    <string name="ques8_answer">Burj Khalifa (Dubai)</string>
+
+    <string name="ques9">9. What airplane is the largest?</string>
+    <string name="ques9_a">Stratolaunch</string>
+    <string name="ques9_b">Antonov AN-225 Mriya</string>
+    <string name="ques9_c">Airbus A380</string>
+    <string name="ques9_answer">Stratolaunch</string>
+
+    <string name="ques10">10. Which is the largest NFL stadium?</string>
+    <string name="ques10_a">Mercedes-Bens Superdome (New Orleans Saints)</string>
+    <string name="ques10_b">MetLife Stadium (New York Jets and New York Giants)</string>
+    <string name="ques10_c">ATT Stadium (Dallas Cowboys)</string>
+    <string name="ques10_answer">MetLife Stadium (New York Jets and New York Giants)</string>
+
+    <string name="button">Check Answers</string>
+</resources>
